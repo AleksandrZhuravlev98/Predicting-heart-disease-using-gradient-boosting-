@@ -1,6 +1,6 @@
 ---
 title: "Assessing the Risks of Heart Disease"
-author: "Student 675851"
+author: "Student _____ "
 date: "2024-03-01"
 output:
   pdf_document: default
